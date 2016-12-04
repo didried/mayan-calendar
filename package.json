@@ -1,0 +1,13 @@
+{
+  "name": "mayan-calendar",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/didried/mayan-calendar.git"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta6"
+  }
+}
